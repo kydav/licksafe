@@ -1,0 +1,107 @@
+[
+  {
+    "id": "xylitol",
+    "name": "Xylitol",
+    "aliases": ["xylitol", "birch sugar", "birch bark extract", "e967", "wood sugar"],
+    "severity": "critical",
+    "notes": "Causes rapid insulin release and can lead to liver failure. Even small amounts are life-threatening."
+  },
+  {
+    "id": "grapes",
+    "name": "Grapes & Raisins",
+    "aliases": ["grape", "grapes", "raisin", "raisins", "currant", "currants", "sultana", "sultanas", "zante currant"],
+    "severity": "critical",
+    "notes": "Can cause acute kidney failure. The toxic compound is unknown, so all amounts should be treated as dangerous."
+  },
+  {
+    "id": "chocolate",
+    "name": "Chocolate / Theobromine",
+    "aliases": ["chocolate", "theobromine", "cocoa", "cacao", "dark chocolate", "milk chocolate", "cocoa powder", "cocoa butter", "cocoa mass", "cocoa solids"],
+    "severity": "critical",
+    "notes": "Theobromine causes vomiting, seizures, and heart arrhythmia. Dark chocolate and baking chocolate are most dangerous."
+  },
+  {
+    "id": "onion",
+    "name": "Onion & Alliums",
+    "aliases": ["onion", "onions", "onion powder", "onion salt", "garlic", "garlic powder", "garlic salt", "leek", "leeks", "chive", "chives", "shallot", "shallots", "scallion", "scallions"],
+    "severity": "high",
+    "notes": "Damage red blood cells, causing hemolytic anemia. Powdered forms are more concentrated and more dangerous."
+  },
+  {
+    "id": "macadamia",
+    "name": "Macadamia Nuts",
+    "aliases": ["macadamia", "macadamia nut", "macadamia nuts", "queensland nut"],
+    "severity": "high",
+    "notes": "Causes weakness, vomiting, tremors, and hyperthermia within 12 hours of ingestion."
+  },
+  {
+    "id": "caffeine",
+    "name": "Caffeine",
+    "aliases": ["caffeine", "coffee", "espresso", "tea", "green tea", "black tea", "guarana", "kola nut", "yerba mate", "matcha", "coffee extract", "coffee flavor"],
+    "severity": "high",
+    "notes": "Stimulates the nervous system. Causes rapid heart rate, tremors, and seizures."
+  },
+  {
+    "id": "alcohol",
+    "name": "Alcohol",
+    "aliases": ["alcohol", "ethanol", "ethyl alcohol", "wine", "beer", "spirits", "rum", "whiskey", "vodka", "malt"],
+    "severity": "high",
+    "notes": "Even small amounts can cause vomiting, disorientation, breathing difficulties, and coma."
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado",
+    "aliases": ["avocado", "avocado oil", "avocado extract", "persea americana", "guacamole"],
+    "severity": "moderate",
+    "notes": "Contains persin, which can cause vomiting and diarrhea. The pit is also a choking hazard."
+  },
+  {
+    "id": "nutmeg",
+    "name": "Nutmeg",
+    "aliases": ["nutmeg", "myristica fragrans", "myristicin"],
+    "severity": "moderate",
+    "notes": "Contains myristicin, which causes hallucinations, disorientation, increased heart rate, and seizures in large amounts."
+  },
+  {
+    "id": "hops",
+    "name": "Hops",
+    "aliases": ["hops", "hop", "humulus lupulus", "spent hops", "hop extract"],
+    "severity": "high",
+    "notes": "Causes malignant hyperthermia (dangerously high body temperature) in dogs, which can be fatal."
+  },
+  {
+    "id": "artificial_sweeteners",
+    "name": "Artificial Sweeteners (non-xylitol)",
+    "aliases": ["erythritol", "sorbitol", "mannitol", "maltitol", "stevia", "saccharin", "aspartame", "acesulfame", "sucralose", "monk fruit"],
+    "severity": "caution",
+    "notes": "Most sugar alcohols cause gastrointestinal upset in dogs. Erythritol may have similar effects to xylitol — use caution."
+  },
+  {
+    "id": "salt",
+    "name": "Excess Salt / Sodium",
+    "aliases": ["salt", "sodium chloride", "sea salt", "kosher salt", "rock salt", "sodium", "brine"],
+    "severity": "caution",
+    "notes": "Large amounts cause sodium ion poisoning — vomiting, diarrhea, tremors, and seizures. A concern in very salty foods."
+  },
+  {
+    "id": "yeast",
+    "name": "Raw Yeast Dough",
+    "aliases": ["yeast", "active dry yeast", "instant yeast", "baker's yeast", "saccharomyces cerevisiae"],
+    "severity": "caution",
+    "notes": "Raw yeast dough can expand in the stomach and produce alcohol as it ferments. Baked products with yeast are generally safe."
+  },
+  {
+    "id": "walnuts",
+    "name": "Black Walnuts",
+    "aliases": ["black walnut", "black walnuts", "juglans nigra"],
+    "severity": "high",
+    "notes": "Black walnuts (not English walnuts) are toxic to dogs and cause neurological symptoms. Moldy walnuts are also dangerous."
+  },
+  {
+    "id": "star_anise",
+    "name": "Star Anise",
+    "aliases": ["star anise", "illicium verum", "anise extract"],
+    "severity": "caution",
+    "notes": "Can cause gastrointestinal distress and neurological effects in dogs in large amounts."
+  }
+]
