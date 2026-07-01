@@ -12,7 +12,7 @@
     <string>manual</string>
     <key>provisioningProfiles</key>
     <dict>
-        <key>app.auaha.licksafe</key>
+        <key>app.auaha.pawcheck</key>
         <string>licksafe</string>
     </dict>
 </dict>
